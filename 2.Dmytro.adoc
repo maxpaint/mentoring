@@ -1,32 +1,11 @@
-= 12 weeks plan from 07.01
-
-== From 07.01 - 04.02
-
-=== GC
-[%interactive]
-* [*] Дюк, вынеси мусор!
-https://habr.com/ru/post/269621/[part 1],
-https://habr.com/ru/post/269707/[part 2],
-https://habr.com/ru/post/269863/[part 3]
-* [*] Из 8 в 13: полный обзор версий Java,
-https://javarush.ru/groups/posts/2547-iz-8-v-13-polnihy-obzor-versiy-java-chastjh-1[part1],
-https://javarush.ru/groups/posts/2549-iz-8-v-13-polnihy-obzor-versiy-java-chastjh-2[part2]
-
-deadline::
-*08 Jan 2022*
-
 === Multithreading, concurrency
-
+==== Book
 Java concurrency in practice by Brian Goetz
 [%interactive]
 * [*] 2 part
 * [*] 3 part
 deadline::
 *09 Jan 2022*
-* [ ] 4 part
-* [ ] 5 part
-deadline::
-*16 Jan 2022*
 * [ ] 4 part
 * [ ] 5 part
 * [ ] 6 part
@@ -49,39 +28,19 @@ deadline::
 deadline::
 *06 Feb 2022*
 
-=== Testing
-[%interactive]
-* [ ] Modern Best Practices for Testing in Java https://phauer.com/2019/modern-best-practices-testing-java/[phauer],
-https://habr.com/ru/company/funcorp/blog/517724/[habr]
-deadline::
-*15 Jan 2022*
-
-=== Build tools
-==== Articles:
-[%interactive]
-* [ ] Краткое знакомство с Gradle, https://javarush.ru/groups/posts/2126-kratkoe-znakomstvo-s-gradle[javarush]
-
-==== Tutorials:
-[%interactive]
-* [ ] Gradle for Android and Java, free tutorial https://www.udacity.com/course/gradle-for-android-and-java--ud867[udacity]
-* [ ] Евгений Борисов — Power of Gradle, https://www.youtube.com/watch?v=NZJTYPLb0iE&ab_channel=JUG.ru[youtube]
-* [ ] Free events https://gradle.com/training/[gradle]
-deadline::
-*16 Jan 2022*
-
 === Articles:
-* Многопоточное программирование в Java 8
+* [ ] Многопоточное программирование в Java 8
 https://tproger.ru/translations/java8-concurrency-tutorial-1/[part 1],
 https://tproger.ru/translations/java8-concurrency-tutorial-2/[part 2],
 https://tproger.ru/translations/java8-concurrency-tutorial-3/[part 3]
 deadline::
 *16 Jan 2022*
 
-=== Testing
-[%interactive]
-* [ ] Фреймворк JUnit 4 / 5: Вводный курс
-deadline::
-*15 Jan 2022*
+=== Courses:
+* Parallel, Concurrent, and Distributed Programming in Java Specialization https://www.coursera.org/specializations/pcdp[coursera]
+
+=== Video
+* Java BlockingQueue https://www.youtube.com/watch?v=d3xb1Nj88pw&list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&index=17[youtube]
 
 == OOP, GoF patterns, SOLID, KISS, DRY, YAGNI
 
@@ -115,4 +74,3 @@ deadline::
 * [ ] Принцип KISS в разработке https://habr.com/ru/company/pixonic/blog/427797/[habr]
 deadline::
 *13 Feb 2022*
-
