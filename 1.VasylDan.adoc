@@ -1,0 +1,54 @@
+= 12 weeks plan from 07.01
+
+== From 07.01 - 04.02
+
+=== GC
+[%interactive]
+* [ ] Дюк, вынеси мусор!
+https://habr.com/ru/post/269621/[part 1],
+https://habr.com/ru/post/269707/[part 2],
+https://habr.com/ru/post/269863/[part 3]
+* [ ] Из 8 в 13: полный обзор версий Java,
+https://javarush.ru/groups/posts/2547-iz-8-v-13-polnihy-obzor-versiy-java-chastjh-1[part1],
+https://javarush.ru/groups/posts/2549-iz-8-v-13-polnihy-obzor-versiy-java-chastjh-2[part2]
+
+deadline::
+*08 Jan 2022*
+
+=== Multithreading, concurrency
+
+Java concurrency in practice by Brian Goetz
+[%interactive]
+* [ ] 2 part
+* [ ] 3 part
+
+deadline::
+*08 Jan 2022*
+
+=== Testing
+[%interactive]
+* [ ] Modern Best Practices for Testing in Java https://phauer.com/2019/modern-best-practices-testing-java/[phauer],
+https://habr.com/ru/company/funcorp/blog/517724/[habr]
+deadline::
+*15 Jan 2022*
+
+=== Build tools
+==== Articles:
+[%interactive]
+* [ ] Краткое знакомство с Gradle, https://javarush.ru/groups/posts/2126-kratkoe-znakomstvo-s-gradle[javarush]
+
+==== Tutorials:
+[%interactive]
+* [ ] Gradle for Android and Java, free tutorial https://www.udacity.com/course/gradle-for-android-and-java--ud867[udacity]
+* [ ] Евгений Борисов — Power of Gradle, https://www.youtube.com/watch?v=NZJTYPLb0iE&ab_channel=JUG.ru[youtube]
+* [ ] Free events https://gradle.com/training/[gradle]
+deadline::
+*22 Jan 2022*
+
+
+
+
+== From 04.02 - 04.03
+
+== From 04.03 - 01.04
+
