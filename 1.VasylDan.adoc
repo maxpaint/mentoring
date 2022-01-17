@@ -22,39 +22,42 @@ Java concurrency in practice by Brian Goetz
 * [*] 2 part
 * [*] 3 part
 deadline::
-*09 Jan 2022*
+* 09 Jan 2022*
+
 * [ ] 4 part
 * [ ] 5 part
 deadline::
-*16 Jan 2022*
-* [ ] 4 part
-* [ ] 5 part
+*22 Jan 2022*
+
 * [ ] 6 part
 * [ ] 7 part
 deadline::
-*16 Jan 2022*
+*23 Jan 2022*
+
 * [ ] 8 part
 * [ ] 9 part
 * [ ] 10 part
 deadline::
-*23 Jan 2022*
+*30 Jan 2022*
+
 * [ ] 11 part
 * [ ] 12 part
 * [ ] 13 part
 deadline::
-*30 Jan 2022*
+*06 Feb 2022*
+
 * [ ] 14 part
 * [ ] 15 part
 * [ ] 16 part
 deadline::
-*06 Feb 2022*
+*13 Feb 2022*
 
 === Testing
 [%interactive]
 * [ ] Modern Best Practices for Testing in Java https://phauer.com/2019/modern-best-practices-testing-java/[phauer],
 https://habr.com/ru/company/funcorp/blog/517724/[habr]
 deadline::
-*15 Jan 2022*
+*22 Jan 2022*
 
 === Build tools
 ==== Articles:
@@ -67,7 +70,7 @@ deadline::
 * [ ] Евгений Борисов — Power of Gradle, https://www.youtube.com/watch?v=NZJTYPLb0iE&ab_channel=JUG.ru[youtube]
 * [ ] Free events https://gradle.com/training/[gradle]
 deadline::
-*16 Jan 2022*
+*22 Jan 2022*
 
 === Articles:
 * Многопоточное программирование в Java 8
@@ -75,13 +78,19 @@ https://tproger.ru/translations/java8-concurrency-tutorial-1/[part 1],
 https://tproger.ru/translations/java8-concurrency-tutorial-2/[part 2],
 https://tproger.ru/translations/java8-concurrency-tutorial-3/[part 3]
 deadline::
-*16 Jan 2022*
+*22 Jan 2022*
 
 === Testing
 [%interactive]
 * [ ] Фреймворк JUnit 4 / 5: Вводный курс
 deadline::
-*15 Jan 2022*
+*22 Jan 2022*
+
+=== Hibernate
+[%interactive]
+* [ ] Hibernate
+deadline::
+*22 Jan 2022*
 
 == OOP, GoF patterns, SOLID, KISS, DRY, YAGNI
 
