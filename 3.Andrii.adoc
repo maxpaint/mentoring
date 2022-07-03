@@ -1,0 +1,37 @@
+
+
+=== Books:
+* [ ] Effective Java: Programming Language Guide by _Joshua BlochJava_
+** [ ] Creating and Destroying Objects
+** [ ] 3 Methods Common to All Objects
+deadline::
+*17 July 2022*
+** [ ] 4 Classes and Interfaces
+** [ ] 5 Generics
+deadline::
+*24 July 2022*
+** [ ] 6 Enums and Annotations
+** [ ] 7 Lambdas and Streams
+deadline::
+*31 July 2022*
+** [ ] 8 Methods
+** [ ] 9 General Programming
+** [ ] 10 Exceptions
+** [ ] 11 Concurrency
+** [ ] 12 Serialization
+
+== Articles:
+* [ ] Структуры данных в картинках. HashMap, https://habr.com/ru/post/128017/[habr]
+* [ ] Структуры данных в картинках. LinkedList, https://habr.com/ru/post/127864/[habr]
+* [ ] Структуры данных в картинках. ArrayList, https://habr.com/ru/post/128269/[habr]
+* [ ] Структуры данных в картинках. LinkedHashMap, https://habr.com/ru/post/129037/[habr]
+* [ ] Справочник по Java Collections Framework, https://habr.com/ru/post/237043/[habr]
+* [ ] Data Structure Interview Questions, https://www.javatpoint.com/data-structure-interview-questions[javatpoint]
+deadline::
+*10 July 2022*
+
+== Exercises
+* [ ] https://github.com/bobocode-projects/java-functional-features-exercises[functional-features-exercises github] - bobocode
+deadline::
+*31 July 2022*
+
